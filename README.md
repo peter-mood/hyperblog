@@ -1,4 +1,4 @@
-# hyperblog :tw-1f43a: 
+# hyperblog 👹 
 Este proyecto tiene como finalidad aprendizaje continuo de herramienta de control de versiones
 >En este curso se desarrollan destresas y habilidades como desarrollador
 >-  Sigue aprendiendo Peter
